@@ -19,5 +19,6 @@ Interesting tools, repos, and CLI utilities worth trying or referencing.
 
 ## Agent Infrastructure
 
+- **[darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)** — A/B test runner for Agent Skills. Runs evals with and without SKILL.md loaded, then judges both outputs to prove whether a skill actually improves model performance.
 - **OpenClaw** — Autonomous agent that runs from vault context. Can read Obsidian vault, find connections, make decisions on your behalf.
 - **Obsidian CLI** — Gives Claude Code access to vault files + inter-relationships (backlinks, graph). The bridge between your notes and the agent.
